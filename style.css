@@ -94,3 +94,135 @@ margin: 0 auto;
         font-weight: 400px;
         
     }   
+/* about section */
+
+.About_the_Podcast {
+    background-color: #1A0B2E;
+    display: contents;
+    text-align: center;
+    max-width: 1200px;
+    margin: 0 auto;
+    
+}
+.About_continer {
+    background-color: #1A0B2E;
+    padding-top: 50px;
+    padding-left: 200px;
+    padding-right: 200px;
+    padding-bottom: 120px;
+}
+
+.about_heading{
+    color: #FFFFFF;
+    font-size: 48px;
+    font-weight: 700px;
+}
+.about_pragrap{
+    color: #FFFFFF;
+    font-size: 16px;
+    font-weight: 400px;
+    line-height: 30px;
+}
+.abot_p2{
+
+    color: #FFFFFF;
+    font-size: 16px;
+    font-weight: 400px;
+    line-height: 30px;
+}
+.about_list{
+    display: contents;
+    color: #FFFFFF;
+    text-align: center;
+    justify-content: center;
+}
+.about_list {
+  display: flex;
+  justify-content: center;
+  gap: 60px;
+  margin-top: 40px;
+  text-align: center;
+  color: #fff;
+}
+
+.stat h3 {
+  font-size: 36px;
+  font-weight: 700;
+  margin-bottom: 6px;
+}
+
+.stat p {
+  font-size: 16px;
+  opacity: 0.85;
+}
+.counter_color{
+    color: #00FF88;
+    
+}
+
+.Why_Choose_TechWave{
+background-color: #230E3D;
+text-align: center;
+padding-top: 120px;
+padding-bottom: 120px;
+padding-right: 200px;
+padding-left: 200px;
+}
+.why_choose_heading{
+    color: #FFFFFF;
+    font-size: 45px;
+    font-family: 700px;
+    padding-bottom: 40px;
+}
+.why_choose_continer{
+    display: flex;
+    gap: 30px;
+    
+
+.why_box_heading{
+    color: #FFFFFF;
+    font: size 24px;
+    font-weight: 700;
+}
+.why_box_p{
+    color: #FFFFFF;
+    font-size: 16px;
+    font-weight: 400;
+}
+/* why_continer style  */
+.Continer_1{
+    width: 380px;
+    height: 480px;
+    padding-top: 104px;
+    padding-bottom: 104px;
+    padding-left: 40px;
+    padding-right: 40px;
+    border-radius: 40px;
+    padding: 40px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;     
+    justify-content: center; 
+    text-align: center;
+    background-color: #351165
+    
+
+}
+.Continer_2{
+    width: 790px;
+    height: 225px;
+    padding-top: 104px;
+    padding-bottom: 104px;
+    padding-left: 40px;
+    padding-right: 40px;
+    border-radius: 40px;
+    padding: 40px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;     
+    justify-content: center; 
+    text-align: center;
+     background-color: #351165
+     
+
+}

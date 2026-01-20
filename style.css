@@ -205,8 +205,6 @@ padding-left: 200px;
     justify-content: center; 
     text-align: center;
     background-color: #351165
-    
-
 }
 .Continer_2{
     width: 790px;
@@ -223,6 +221,11 @@ padding-left: 200px;
     justify-content: center; 
     text-align: center;
      background-color: #351165
-     
 
+}
+/* Featured_Episodes */
+
+.Featured_heading{
+    font-size: 48px;
+    font-weight: 700;
 }

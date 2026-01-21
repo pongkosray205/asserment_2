@@ -266,3 +266,49 @@ padding-left: 200px;
   height: 100%;
   border: 0;
 }
+
+
+/* Meet the Host */
+
+.meet_host{
+    background-color: #1A0B2E;
+    padding-top: 40px;
+    padding-bottom: 50px;
+}
+.meet_host_heading{
+    font-size: 48px;
+    font-weight: 700px;
+    color: #FFFFFF;
+    text-align: center;
+    padding-bottom: 40px;
+}
+.meet_host_continer{
+    background-color: #35116566;
+    border-radius: 40px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    padding-left: 40px;
+    padding-right: 40px;
+    justify-content: center;
+    align-items: center;
+    max-width: 1200px;
+    margin: 0 auto;      
+    text-align: center;
+}
+.meet_title{
+    color: #FFFFFF;
+}
+.meet_pragrap{
+    color: #FFFFFF;
+}
+.meet_img{
+    height: 200px;
+    width: 200px;
+    text-align: right;
+}
+.social_icon{
+    gap: 30px;
+}
+.icon{
+    gap: 10px;
+}

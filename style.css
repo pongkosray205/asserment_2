@@ -312,3 +312,43 @@ padding-left: 200px;
 .icon{
     gap: 10px;
 }
+.footer_section{
+
+  background-image: url("assets/footer-bg.png"); 
+  background-size: cover;      
+  background-position: center; 
+  background-repeat: no-repeat;
+  padding-bottom: 30px;
+
+}
+
+.footer_continer{
+    max-width: 1360px;
+    margin: 0 auto;
+    padding-top: 120px;
+    padding-bottom: 120px;
+    padding-left: 120px;
+    padding-right: 120px;
+    align-items: center;
+    text-align: center;
+}
+.footer_pragrap{
+    color: #FFFFFF;
+    font-size: 16px;
+    font-weight: 400;
+}
+.icon_title{
+    color: #FFFFFF;
+    font-size: 16px;
+    font-weight: 500;
+    padding-left: 5px;
+    align-content: center;
+    text-align: center;
+    justify-content: center;
+    
+    
+}
+.footer_icon{
+    align-items: center;
+    gap: 30px;
+}

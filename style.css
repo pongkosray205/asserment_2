@@ -59,7 +59,7 @@ background-color: #1A0B2E;
 
 .Hero_section{
 
-  background-image: url("/assets/hero-bg.png");
+  background-image: url("assets/hero-bg.png");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;

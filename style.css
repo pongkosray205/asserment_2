@@ -352,3 +352,57 @@ padding-left: 200px;
     align-items: center;
     gap: 30px;
 }
+
+
+@media (max-width: 576px) {
+  .footer_container {
+    gap: 18px;
+  }
+
+  .footer_logo {
+    width: 130px;
+  }
+
+  .icon {
+    flex-direction: column;   /* icon + text vertical */
+    gap: 14px;
+  }
+
+  .icon li {
+    justify-content: center;
+  }
+
+  .icon_title {
+    font-size: 15px;
+  }
+
+  .footer_pragrap {
+    font-size: 13px;
+    text-align: center;
+  }
+}
+
+
+/* feture resoponsive  */
+
+@media (max-width: 576px) {
+  .feature_Continer {
+    grid-template-columns: 1fr ;
+  }
+
+  .Featured_heading {
+    font-size: 26px;
+  }
+
+  .card-box {
+    padding: 16px;
+  }
+
+  .why_box_heading {
+    font-size: 18px;
+  }
+
+  .why_box_p {
+    font-size: 14px;
+  }
+}
